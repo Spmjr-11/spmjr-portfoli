@@ -8,34 +8,33 @@ export default function About() {
           <div className="about-text">
             <h2>Who I Am</h2>
             <p>
-              I'm a passionate engineer with [X years] of experience in full-stack development.
-              I specialize in building robust, scalable applications using modern technologies.
+            I'm a second year student at Western Michigan University, where I study Mechanical Engineering with a concetration in automotive. Through my classes, and being a active member of the FSAE team, I have gain real life experince, in solving problems by creating a new part or system. 
             </p>
             
             <h2>My Skills</h2>
             <div className="skills-grid">
               <div className="skill-category">
-                <h3>Frontend</h3>
+                <h3>Technical</h3>
                 <ul>
-                  <li>React / Next.js</li>
-                  <li>JavaScript / TypeScript</li>
-                  <li>CSS / Tailwind</li>
+                  <li>SolidWorks/Onshape</li>
+                  <li>Autocad</li>
+                  <li>Microsoft Office Suite</li>
                 </ul>
               </div>
               <div className="skill-category">
-                <h3>Backend</h3>
+                <h3>Equipment</h3>
                 <ul>
-                  <li>Node.js</li>
-                  <li>Python / FastAPI</li>
-                  <li>PostgreSQL / MongoDB</li>
+                  <li>3D Printer</li>
+                  <li>Manual Mill Machine</li>
+                  <li>Fanuc Robot</li>
                 </ul>
               </div>
               <div className="skill-category">
-                <h3>Tools & Platforms</h3>
+                <h3>Personal</h3>
                 <ul>
-                  <li>Git / GitHub</li>
-                  <li>Docker</li>
-                  <li>AWS / Vercel</li>
+                  <li>Leadership</li>
+                  <li>Communication</li>
+                  <li>Eager to Learn</li>
                 </ul>
               </div>
             </div>
