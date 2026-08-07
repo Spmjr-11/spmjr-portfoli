@@ -5,24 +5,18 @@ export default function Contact() {
     <section className="contact">
       <div className="container">
         <h1>Get In Touch</h1>
-        <p className="section-description">
-          Have a project in mind or want to collaborate? I'd love to hear from you!
-        </p>
         
-        <div className="contact-content">
-          <ContactForm />
-          
-          <div className="contact-info">
-            <h2>Other Ways to Connect</h2>
+        </p>
+             <h2>Other Ways to Connect</h2>
             <div className="contact-links">
               <p>
-                <strong>Email:</strong> your.email@example.com
+                <strong>Email:</strong> sean.p39.mccormick@wmich.edu
               </p>
               <p>
-                <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">linkedin.com/in/yourprofile</a>
+                <strong>LinkedIn:</strong> <a href=www.linkedin.com/in/sean-mccormick-jr-b37a9a348" target="_blank" rel="noopener noreferrer">linkedin.com/in/Sean-McCormick</a>
               </p>
               <p>
-                <strong>GitHub:</strong> <a href="https://github.com/Spmjr-11" target="_blank" rel="noopener noreferrer">github.com/Spmjr-11</a>
+                <strong>Phone Number:</strong> +1 (734)-548-4363
               </p>
             </div>
           </div>
