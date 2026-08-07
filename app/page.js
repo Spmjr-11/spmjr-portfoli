@@ -4,9 +4,9 @@ export default function Home() {
   return (
     <section className="hero">
       <div className="hero-content">
-        <h1>Hi, I'm Sean McCormick /h1>
-        <p className="subtitle">Mechanical Engineering Student| WMU FSAE Member|</p>
-            <div className="cta-buttons">
+        <h1>Hi, I'm Sean McCormick</h1>
+        <p className="subtitle">Mechanical Engineering Student | WMU FSAE Member</p>
+        <div className="cta-buttons">
           <Link href="/projects" className="btn btn-primary">
             View My Work
           </Link>
